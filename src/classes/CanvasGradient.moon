@@ -1,2 +1,0 @@
-class CanvasGradient
-	pattern: nil
